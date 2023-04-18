@@ -5,3 +5,4 @@
 **/workspace.code-workspace
 **/*.js
 !**/*.min.js
+**/index.html.default
