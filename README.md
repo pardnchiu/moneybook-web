@@ -17,14 +17,7 @@
 | 預覽 | 預覽 |
 |---|---|
 | ![Moneybook 簡易記帳 (Web)](./image/index-pie.jpg) | ![Moneybook 簡易記帳 (Web)](./image/index-calendar.jpg) |
-
-
-| 預覽 | 預覽 |
-|---|---|
 | ![Moneybook 簡易記帳 (Web)](./image/month-selector.jpg) | ![Moneybook 簡易記帳 (Web)](./image/add-expand.jpg) |
-
-| 預覽 | 預覽 |
-|---|---|
 | ![Moneybook 簡易記帳 (Web)](./image/add-income.jpg) | ![Moneybook 簡易記帳 (Web)](./image/tab-show.jpg) |
 
 
